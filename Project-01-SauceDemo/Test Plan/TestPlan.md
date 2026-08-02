@@ -58,3 +58,28 @@ The following testing types will be performed:
 - Negative Testing
 - Regression Testing
 - Smoke Testing
+
+## 6. Test Deliverables
+
+The following documents will be produced during testing:
+
+- Test Plan
+- Test Cases
+- Bug Reports
+- Test Summary Report
+
+  ## 7. Entry Criteria
+
+Testing can start when:
+
+- The application is available.
+- Test environment is ready.
+- Test cases are prepared.
+
+## 8. Exit Criteria
+
+Testing will finish when:
+
+- All planned test cases are executed.
+- Critical defects are reported.
+- Test Summary Report is completed.
