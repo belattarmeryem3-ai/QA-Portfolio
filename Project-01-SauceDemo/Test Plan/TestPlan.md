@@ -11,3 +11,9 @@
 **Document Version:** 1.0
 
 **Date:** August 2026
+
+## 2. Objective
+
+The objective of this test plan is to verify that the core functionality of the SauceDemo web application works as expected.
+
+The testing will focus on validating the login process, product browsing, shopping cart, and checkout functionality to ensure a smooth user experience.
