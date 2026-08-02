@@ -38,3 +38,23 @@ The following items are not included in this testing:
 - Security Testing
 - Mobile Application Testing
 - Compatibility Testing on multiple browsers
+
+  ## 4. Test Environment
+
+| Item | Details |
+|------|---------|
+| Application | SauceDemo |
+| URL | https://www.saucedemo.com/ |
+| Browser | Google Chrome |
+| Operating System | Windows 11 |
+| Testing Type | Manual Functional Testing |
+
+## 5. Test Types
+
+The following testing types will be performed:
+
+- Functional Testing
+- Positive Testing
+- Negative Testing
+- Regression Testing
+- Smoke Testing
