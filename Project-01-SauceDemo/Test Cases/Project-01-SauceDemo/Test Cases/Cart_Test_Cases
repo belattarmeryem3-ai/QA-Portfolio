@@ -3,6 +3,7 @@
 | Test Case ID | Test Case Title | Preconditions | Test Steps | Test Data | Expected Result |
 |--------------|-----------------|---------------|------------|-----------|-----------------|
 | TC_CART_001 | Verify the shopping cart page opens successfully | User is logged in | 1. Click the shopping cart icon. | N/A | Shopping Cart page is displayed. |
+|--------------|-----------------|---------------|------------|-----------|-----------------|
 | TC_CART_002 | Verify added product appears in the cart | User has added one product | 1. Open the shopping cart. | Sauce Labs Backpack | The selected product is displayed in the cart. |
 | TC_CART_003 | Verify multiple products appear in the cart | User has added multiple products | 1. Add three products.<br>2. Open the cart. | N/A | All selected products are displayed. |
 | TC_CART_004 | Verify product name is displayed in the cart | User has added a product | 1. Open the cart. | N/A | Product name is displayed correctly. |
