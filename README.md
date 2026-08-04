@@ -80,6 +80,6 @@ Project-01-SauceDemo
 
 ## Author
 
-**Maryam**
+**Meriam Belattar**
 
 Manual QA Tester
