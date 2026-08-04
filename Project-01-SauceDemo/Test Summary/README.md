@@ -6,7 +6,7 @@
 |------|---------|
 | Project Name | SauceDemo Manual Testing |
 | Application | SauceDemo |
-| Tester | Maryam |
+| Tester | Meriam Belattar |
 | Test Type | Manual Testing |
 | Test Environment | Windows 11, Google Chrome |
 | Testing Period | July - August 2026 |
