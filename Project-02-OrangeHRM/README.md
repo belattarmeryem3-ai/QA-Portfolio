@@ -33,6 +33,6 @@ The objective is to practice functional testing, test case design, defect report
 
 ## Author
 
-**Mُeriam Belattar**
+**Meriam Belattar**
 
 Manual QA Tester
