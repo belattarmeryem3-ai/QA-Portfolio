@@ -55,7 +55,7 @@ https://github.com/belattarmeryem3-ai/restful-booker-api-testing
 - GitHub
 
 ## Author
-Meriam
+
 
 Meriam Belattar
 QA Tester
