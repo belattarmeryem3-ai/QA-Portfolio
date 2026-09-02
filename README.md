@@ -1,85 +1,61 @@
-# SauceDemo Manual Testing Project
+# QA Testing Portfolio
 
-## Project Overview
+This repository contains my Quality Assurance testing projects covering manual testing and API testing.
 
-This project demonstrates my manual testing skills using the SauceDemo web application.
+## Projects
 
-The purpose of this project is to practice the software testing life cycle by creating test plans, writing test cases, executing tests, reporting defects, and documenting the testing results.
+### Project 01 - SauceDemo Manual Testing
+Manual testing project covering:
 
----
+- Test planning
+- Test case design
+- Functional testing
+- Positive and negative testing
+- Bug reporting
+- Test execution
+- Test summary reporting
 
-## Project Scope
+**Results:** 85 test cases executed, 80 passed, 5 failed.
 
-The following modules were tested:
+### Project 02 - OrangeHRM Manual Testing
+Manual testing project covering:
 
 - Login
-- Products
-- Shopping Cart
-- Checkout
-- Logout
+- Dashboard
+- Employee Management
+- Leave Management
+- Functional testing
+- Test case design
+- Bug reporting
 
----
+### Project 03 - RESTful Booker API Testing
+API testing project using Postman covering:
 
-## Test Artifacts
+- Authentication
+- CRUD operations
+- Positive and negative API testing
+- JavaScript assertions
+- Dynamic collection variables
+- Test documentation
+- Bug reporting
 
-This project includes:
+Repository:
+https://github.com/belattarmeryem3-ai/restful-booker-api-testing
 
-- Test Plan
-- Login Test Cases
-- Product Test Cases
-- Cart Test Cases
-- Checkout Test Cases
-- Logout Test Cases
-- Bug Reports
-- Test Summary Report
+## Tools & Skills
 
----
-
-## Tools Used
-
-- SauceDemo
-- Google Chrome
+- Manual Testing
+- API Testing
+- Postman
+- JavaScript
+- Functional Testing
+- Test Case Design
+- Bug Reporting
+- Test Planning
 - GitHub
-- Markdown
-
----
-
-## Project Structure
-
-```text
-Project-01-SauceDemo
-│
-├── README.md
-├── Test Plan
-├── Test Cases
-│   ├── Login_Test_Cases.md
-│   ├── Product_Test_Cases.md
-│   ├── Cart_Test_Cases.md
-│   ├── Checkout_Test_Cases.md
-│   └── Logout_Test_Cases.md
-│
-├── Bug Reports
-│   └── README.md
-│
-└── Test Summary
-    └── README.md
-```
-
----
-
-## Test Summary
-
-| Metric | Count |
-|--------|------:|
-| Total Test Cases | 85 |
-| Passed | 80 |
-| Failed | 5 |
-| Blocked | 0 |
-
----
 
 ## Author
+Meriam
 
-**Meriam Belattar**
-
-Manual QA Tester
+Meriam Belattar
+QA Tester
